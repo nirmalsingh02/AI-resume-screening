@@ -1,0 +1,40 @@
+MACHINE LEARNING / PYTHON BACKEND ENGINEER
+
+Job Description:
+
+We are looking for a Python-focused engineer with strong backend
+and machine learning fundamentals.
+
+Required Skills:
+Python
+Machine Learning
+SQL
+Django
+Django REST Framework
+REST APIs
+PostgreSQL
+Git
+Docker
+
+Preferred Skills:
+Scikit-learn
+Pandas
+NumPy
+Flask
+
+Experience:
+0-2 years
+
+Education:
+Bachelor's degree in Computer Science, Software Engineering,
+Data Science, or a related field.
+
+Responsibilities:
+
+- Build and maintain Python backend applications.
+- Develop REST APIs using Django or Flask.
+- Work with relational databases such as PostgreSQL.
+- Build machine learning models using Python.
+- Clean and analyze datasets using Pandas and NumPy.
+- Use Git for version control.
+- Work with Docker for application deployment.

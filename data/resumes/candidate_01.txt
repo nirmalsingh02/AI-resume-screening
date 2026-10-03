@@ -1,0 +1,20 @@
+NAME: Rahul Sharma
+
+SUMMARY:
+Machine Learning Engineer with 3 years of experience in Python,
+machine learning and deep learning.
+
+SKILLS:
+Python, NumPy, Pandas, Scikit-learn, TensorFlow, SQL,
+Machine Learning, Deep Learning
+
+EXPERIENCE:
+3 years
+
+EDUCATION:
+Bachelor of Technology in Computer Science
+
+PROJECTS:
+Customer Churn Prediction
+Image Classification
+Fraud Detection

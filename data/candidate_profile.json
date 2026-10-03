@@ -1,0 +1,33 @@
+{
+    "name": "NIRMAL\tSINGH",
+    "email": "nirmalsingh57298@gmail.com",
+    "phone": "+91\t9906210858",
+    "skills": [
+        "python",
+        "sql",
+        "django",
+        "javascript",
+        "git"
+    ],
+    "experience": 0,
+    "education": [
+        "B.Tech,\tComputer\tScience\t&\tEngineering\t—\tCGPA:\t8.0\t/\t10",
+        "2023\t–\t2027",
+        "Global\tGroup\tof\tInstitutes,\tAmritsar",
+        "Relevant\tCoursework:\tData\tStructures,\tDatabase\tManagement\tSystems,\tWeb\tTechnologies,\tObject-Oriented\tProgramming,\tComputer",
+        "Networks,\tSoftware\tEngineering",
+        "Senior\tSecondary\t(Class\tXII)",
+        "2023",
+        "Percentage:\t75%",
+        "Secondary\t(Class\tX)",
+        "2021",
+        "Percentage:\t80%",
+        "CORE\tCOMPETENCIES",
+        "Communication,\tAdaptability,\tProblem\tSolving,\tTeam\tCollaboration,\tFast\tLearner,\tTime\tManagement"
+    ],
+    "projects": [
+        "TaskFlow\t—\tTeam\tTask\tManagement\tWeb\tApp Python,\tDjango,\tDjango\tREST\tFramework,\tPostgreSQL,\tJWT Designed\ta\tREST\tAPI\twith\tDjango\tREST\tFramework\tand\timplemented\tJWT-based\tauthentication\tto\tsecure\tuser\tsessions\tand\trole- based\taccess. Modeled\ta\tnormalized\tPostgreSQL\tschema\tsupporting\tmulti-team\tworkflows,\treducing\tduplicate\tdata\tand\timproving\tquery\tspeed\tby 30%.",
+        "BlogSphere\t—\tFull-Stack\tBlogging\tPlatform Python,\tDjango,\tMySQL,\tBootstrap Developed\ta\tfull-stack\tblogging\tplatform\twith\tuser\tauthentication,\trich-text\tpost\tcreation,\tand\tcomment\tthreads. Implemented\tDjango's\tMVC\tarchitecture\tto\tcleanly\tseparate\tbusiness\tlogic,\ttemplates,\tand\tdata\tmodels\tfor\tmaintainability. Optimized\tMySQL\tqueries\tand\tadded\tpagination,\tcutting\taverage\tpage\tload\ttime\tby\t25%\tfor\tcontent-heavy\tpages."
+    ],
+    "competencies": []
+}

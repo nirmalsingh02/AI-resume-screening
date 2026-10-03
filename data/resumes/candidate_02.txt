@@ -1,0 +1,18 @@
+NAME: Aman Kumar
+
+SUMMARY:
+Python Developer with 2 years of software development experience.
+
+SKILLS:
+Python, Django, SQL, Git, REST API, JavaScript
+
+EXPERIENCE:
+2 years
+
+EDUCATION:
+Bachelor of Technology in Information Technology
+
+PROJECTS:
+E-commerce Website
+REST API
+Inventory Management System

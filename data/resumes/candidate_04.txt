@@ -1,0 +1,19 @@
+NAME: Arjun Mehta
+
+SUMMARY:
+Software Engineer with 5 years of experience in backend
+development and cloud applications.
+
+SKILLS:
+Python, Java, Django, SQL, Git, REST API, AWS, Docker
+
+EXPERIENCE:
+5 years
+
+EDUCATION:
+Bachelor of Technology in Computer Science
+
+PROJECTS:
+Payment API
+E-commerce Backend
+Cloud Application

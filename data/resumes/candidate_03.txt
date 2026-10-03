@@ -1,0 +1,20 @@
+NAME: Priya Singh
+
+SUMMARY:
+Data Scientist with 4 years of experience in data analysis,
+machine learning and Python.
+
+SKILLS:
+Python, Pandas, NumPy, Scikit-learn, SQL, Machine Learning,
+Matplotlib, Statistics
+
+EXPERIENCE:
+4 years
+
+EDUCATION:
+Master of Science in Data Science
+
+PROJECTS:
+Customer Churn Prediction
+Sales Forecasting
+Customer Segmentation
